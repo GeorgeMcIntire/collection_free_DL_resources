@@ -2,6 +2,7 @@
 Here is my exhaustive collection of free deep learning learning resources. These are the best courses, guides, and videos that I've compiled on this subject.
 
 <b>Github repos:</b>
+
 https://github.com/aymericdamien/TensorFlow-Examples
 https://github.com/ageron/handson-ml
 https://github.com/nfmcclure/tensorflow_cookbook
@@ -14,6 +15,7 @@ https://github.com/mnielsen/neural-networks-and-deep-learning
 https://github.com/oxford-cs-deepnlp-2017/lectures
 
 <b>Videos:</b>
+
 https://www.youtube.com/user/NeuralInformationPro
 https://www.analyticsvidhya.com/blog/2016/12/21-deep-learning-videos-tutorials-courses-on-youtube-from-2016/
 http://www.kdnuggets.com/2015/06/top-10-machine-learning-videos-youtube.html
@@ -24,6 +26,7 @@ https://www.youtube.com/watch?v=nl_4WFHQ4LU
 https://www.youtube.com/watch?v=czLI3oLDe8M
 
 <b>Courses:</b>
+
 https://www.udacity.com/course/deep-learning--ud730
 http://course.fast.ai/
 https://medium.freecodecamp.com/dive-into-deep-learning-with-these-23-online-courses-bf247d289cc0
@@ -39,6 +42,7 @@ https://www.class-central.com/mooc/8097/deep-learning-for-natural-language-proce
 https://cognitiveclass.ai/courses/introduction-deep-learning/
  
 <b>Books</b>:
+
 http://www.deeplearningbook.org/
 https://github.com/janishar/mit-deep-learning-book-pdf
 https://github.com/HFTrader/DeepLearningBook
