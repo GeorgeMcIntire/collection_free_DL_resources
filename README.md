@@ -4,14 +4,24 @@ Here is my exhaustive collection of free deep learning learning resources. These
 <b>Github repos:</b>
 
 https://github.com/aymericdamien/TensorFlow-Examples
+
+
 https://github.com/ageron/handson-ml
+
 https://github.com/nfmcclure/tensorflow_cookbook
+
 https://github.com/Hvass-Labs/TensorFlow-Tutorials
+
 https://github.com/rasbt/deep-learning-book
+
 https://github.com/adeshpande3/Tensorflow-Programs-and-Tutorials
+
 https://github.com/fastai/courses
+
 https://github.com/udacity/deep-learning
+
 https://github.com/mnielsen/neural-networks-and-deep-learning
+
 https://github.com/oxford-cs-deepnlp-2017/lectures
 
 <b>Videos:</b>
@@ -50,8 +60,7 @@ https://www.tensorflow.org/get_started/mnist/beginners
 
 https://www.tensorflow.org/get_started/mnist/pros
 
-https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-
-Conference-NIPS-2016
+https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016
 
 https://www.nvidia.com/en-us/deep-learning-ai/education/
 
